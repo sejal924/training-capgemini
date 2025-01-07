@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Multiplication
+public class Division
 {
     public static void main(String [] args)
     {
@@ -8,7 +8,7 @@ public class Multiplication
        int num1 = sc.nextInt();
        System.out.print("enter the second number: ");
        int num2 = sc.nextInt();
-       System.out.print("Multiplication of two number: ");
-       System.out.print(num1*num2);
+       System.out.print("Divion of two number: ");
+       System.out.print(num1/num2);
     }
 }
